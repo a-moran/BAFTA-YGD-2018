@@ -5,4 +5,4 @@ I was surpised to see that 90% of the code was stored in one file, a very long 8
 ##Requirements
 - Pygame
 
-[Example scene in the game](Example.png)
+![Example scene in the game](Example.png)
